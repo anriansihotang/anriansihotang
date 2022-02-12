@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Anrian SIhotang**.\
-Saya seorang **Mahasiswa** di Universitas Esa Unggul.\
+Saya seorang **Mahasiswa** di Universitas Esa Unggul
  
 <p align="left">
 <a href="https://github.com/anriansihotang">
